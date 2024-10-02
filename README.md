@@ -1,10 +1,10 @@
 # 🛒 Brazilian E-Commerce Dashboard - Nathan Garzya Santoso
 
 ## Struktur Project
-- <mark>dashboard.py</mark>: File Dashboard untuk menjalankan Streamlit App.
-- <mark>requirements.txt</mark>: Daftar dependencies yang diperlukan.
-- <mark>data/</mark>: Folder tempat menyimpan dataset.
-- <mark>notebook.ipynb</mark>: File Analisis dari dataset.
+- `dashboard.py`: File Dashboard untuk menjalankan Streamlit App.
+- `requirements.txt`: Daftar dependencies yang diperlukan.
+- `data/`: Folder tempat menyimpan dataset.
+- `notebook.ipynb`: File Analisis dari dataset.
 
 ## Dependecies
 |   Dependency   |                Use                |
