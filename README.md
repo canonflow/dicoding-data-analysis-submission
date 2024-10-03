@@ -6,7 +6,7 @@
 - `data/`: Folder tempat menyimpan dataset.
 - `notebook.ipynb`: File Analisis dari dataset.
 
-## Dependecies
+## Dependencies
 |   Dependency   |                Use                |
 |:--------------:|:---------------------------------:|
 | **Streamlit**  | Membangun Aplikasi Web Interaktif |
