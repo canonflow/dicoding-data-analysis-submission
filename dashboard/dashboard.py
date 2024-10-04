@@ -222,7 +222,7 @@ try:
         linewidth=2,
         color="#E46A76"
     )
-    ax[1].set_title("Number of Orders per Month", loc="center", fontsize=20)
+    ax[1].set_title("Number of Revenue per Month", loc="center", fontsize=20)
     ax[1].set_xlabel("", labelpad=10)
     ax[1].tick_params(axis="x", labelsize=12, labelrotation=45)
     ax[1].tick_params(axis='y', labelsize=10)
